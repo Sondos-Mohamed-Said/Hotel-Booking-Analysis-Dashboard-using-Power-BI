@@ -46,6 +46,9 @@ A professional **Star Schema** was designed and implemented to ensure the model 
 - **Relationships:**
     - All dimensions are linked to the fact table with one-to-many relationships.
     - An inactive relationship was established with the `dim_date` table on the `reservation_status_date_id` to enable advanced analysis of cancellations over time.
+      
+*Data Modeling*
+![Data-Modeling](Data-Modeling.jpg)
 
 ### 3. DAX Measures
 
