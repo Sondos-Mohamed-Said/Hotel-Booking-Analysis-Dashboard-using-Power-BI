@@ -79,7 +79,6 @@ The final output is an interactive 5-page dashboard, where each page tells a par
 
 ## Dashboard Preview
 
-*(Here you can add screenshots of your 5 dashboard pages)*
 
 **Page 1: Overview**
 ![Overview](1.jpg)
